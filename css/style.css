@@ -1,0 +1,66 @@
+ @import "null.css";
+
+ 
+ .name {
+    color: rgb(1, 62, 65);
+}
+.first-title {
+}
+.first {
+}
+.main-li {
+   color: crimson;
+}
+.text {
+   color: rgb(7, 94, 110);
+}
+
+.first-text span{
+   color: indigo;
+}
+.second-title {
+}
+.second {
+   color: darksalmon;
+}
+.second-text {
+   color: hotpink;
+}
+.second-text span{
+   color: rgb(29, 39, 39);
+}
+.third-title {
+}
+.third {
+}
+.third-text {
+}
+.fourth-title {
+   color: rgb(36, 56, 2);
+}
+.fourth {
+}
+.fourth-text {
+}
+.fifth-title {
+   color: rgb(21, 5, 66);
+}
+.fifth {
+}
+.fifth-text {
+   color: greenyellow;
+}
+.fifth-text span{
+   color: rgb(224, 50, 50);
+}
+.sixth-title {
+}
+.sixth {
+   color: darkviolet;
+}
+.sixth-text {
+   color: rgb(32, 61, 3);
+}
+.list-mail{
+   color: limegreen;
+}
